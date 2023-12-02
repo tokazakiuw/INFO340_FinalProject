@@ -2,6 +2,9 @@
 
 This repository contains code for an interactive information web app, created for the _Client-Side Web Development_ course at the UW iSchool.
 
+Project Console: https://console.firebase.google.com/project/marketplace-web-project/overview
+Hosting URL: https://marketplace-web-project.web.app
+
 ## Problem/Data Domain
 Trading cards have become an increasingly popular hobby with digital marketplaces providing a foundation for communities to interact with each other and expand to those interested. Without a centralized market and platform to standardize information, however, buying and selling cards makes it difficult for collectors to access a wide range of cards and for sellers to reach potential buyers. The current marketplace, moreover, is often difficult to navigate and nearly impossible to verify the authenticity of both cards and users; this information problem leads to challenges for buyers and sellers which then hinders the development of these communities. Buyers have to research through multiple platforms to find information on cards and marketplace authenticity, while sellers struggle to reach potential buyers and advertise information on a centralized platform. Existing platforms such as eBay and TCGplayer allow for buyer and seller interaction but lack essential information and transparency to verify purchases. To address these challenges, we will devise an application platform to develop a comprehensive trading card marketplace and integrate necessary features to resolve these information problems. Through scalping and integrating existing datasets like this Yu-Gi-Oh! Dataset we are able to develop a solution that resolves these information problems. This platform will offer a centralized location for buyers and sellers to access essential information, including authentication, card history, and pricing data.
 
