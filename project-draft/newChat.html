@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Chat Page</title>
+        <meta name="author" content="Ken, Ty, Zack, Yozen">
+        <meta name="description" content="Chat page for user-to-user interaction">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/svg" href="./img/favicon.svg">
+        <script src="https://kit.fontawesome.com/11314ae331.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="./css/draft.css">
+    </head>
+    <body>
+        <main class="chat-main">
+            <div class="contact-window">
+                <div class="top-contacts"><a class="home-link" href="./index.html">Home</a><button class="new-chat-button" type="button">New Chat</button></div>
+                <div class="chat-contacts">
+                    <div role="button" aria-label="contact button" class="single-contact">New Chat</div>
+                    <div role="button" aria-label="contact button" class="single-contact">Zack</div>
+                    <div role="button" aria-label="contact button" class="single-contact">Ty</div>
+                    <div role="button" aria-label="contact button" class="single-contact">Yozen</div>
+                    <div role="button" aria-label="contact button" class="single-contact">Ken</div>
+                </div>
+            </div>
+            <div class="chat-window">
+                <div class="chat-name-header">
+                    <form class="name-input-wrapper" action="#">
+                        <input class="chat-name-input" type="text" placeholder="Enter Username" />
+                        <button class="chat-name-submit" type="submit"></button>
+                    </form>
+                </div>
+                <div class="chat-message-window">
+                    <form class="input-wrapper" action="#">
+                        <input class="message-input" type="text" />
+                        <button class="chat-submit" type="submit">Send</button>
+                    </form>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>

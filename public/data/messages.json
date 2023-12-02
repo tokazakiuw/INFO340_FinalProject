@@ -1,0 +1,72 @@
+[
+    {
+        "to": "cardLover340",
+        "from": "fakeUser",
+        "message": "hello",
+        "time": "00:00",
+        "id": 1
+    },
+    {
+        "to": "cardLover69",
+        "from": "fakeUser",
+        "message": "ill buy ur illustrator card for $1,000,000",
+        "time": "00:00",
+        "id": 2
+    },
+    {
+        "to": "fakeUser",
+        "from": "cardLover69",
+        "message": "i want 1 billion for it",
+        "time": "00:00",
+        "id": 3
+    },
+    {
+        "to": "fakeUser",
+        "from": "TyDye24",
+        "message": "hey man, I saw u had a shiny charizard for sale?",
+        "time": "00:00",
+        "id": 4
+    },
+    {
+        "to": "TyDye24",
+        "from": "fakeUser",
+        "message": "yea, how much are u willing to give",
+        "time": "00:00",
+        "id": 5
+    },
+    {
+        "to": "fakeUser",
+        "from": "iLuvPokemonCards",
+        "message": "hello",
+        "time": "00:00",
+        "id": 6
+    },
+    {
+        "to": "iLuvPokemonCards",
+        "from": "fakeUser",
+        "message": "hello sir",
+        "time": "00:00",
+        "id": 7
+    },
+    {
+        "to": "iLuvPokemonCards",
+        "from": "fakeUser",
+        "message": "do you have any Rayquaza EX cards?",
+        "time": "00:00",
+        "id": 8
+    },
+    {
+        "to": "yozenTheCardDealer",
+        "from": "fakeUser",
+        "message": "how much for the 2008 deoxys",
+        "time": "00:00",
+        "id": 9
+    },
+    {
+        "to": "fakeUser",
+        "from": "yozenTheCardDealer",
+        "message": "a lot",
+        "time": "00:00",
+        "id": 10
+    }
+]

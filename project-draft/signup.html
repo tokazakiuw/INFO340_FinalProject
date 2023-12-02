@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Sign Up</title>
+        <meta name="author" content="Ken, Ty, Zack, Yozen">
+        <meta name="description" content="Sign up page for the card marketplace">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/svg" href="./img/favicon.svg">
+        <link rel="stylesheet" href="./css/draft.css">
+    </head>
+    <body class="signup-body splash-body">
+        <main class="splash-main">
+            <div class="splash-container">
+                <h1 class="text-outside">Welcome!</h1>
+                <div class="splash-box">
+                    <div class="splash-left-container">
+                        <a href="./index.html"><img aria-label="home button" class="splash-logo" src="./img/favicon.svg" alt="Card Marketplace Logo"></a>
+                    </div>
+                    <div class="splash-right-container">
+                        <h1 class="text-inside">Welcome!</h1>
+                        <form action="#" class="form">
+                            <div class="fields">
+                                <div class="input-container">
+                                    <label for="fname">First name:</label>
+                                    <input class="splash-input" type="text" id="fname" name="fname" placeholder="John" required><br>
+                                </div>
+                                <div class="input-container">
+                                    <label for="lname">Last name:</label>
+                                    <input class="splash-input" type="text" id="lname" name="lname" placeholder="Doe"><br>
+                                </div>
+                                <div class="input-container">
+                                    <label for="username">Username:</label>
+                                    <input class="splash-input" type="text" id="username" name="username" placeholder="Username" required><br>
+                                </div>
+                                <div class="input-container">
+                                    <label for="email">Email:</label>
+                                    <input class="splash-input" type="email" id="email" name="email" placeholder="johndoe1@email.com" required><br>
+                                </div>
+                                <div class="input-container">
+                                    <label for="password">Password:</label>
+                                    <input class="splash-input" type="password" id="password" name="password" placeholder="Password" required><br>
+                                </div>
+                                <div class="input-container">
+                                    <label for="confirm-pw">Confirm Password:</label>
+                                    <input class="splash-input" type="password" id="confirm-pw" name="confirm-pw" placeholder="Confirm Password" required><br>
+                                </div>
+                            </div>
+                            <div class="agreement">
+                                <input class="splash-input" type="checkbox" id="tos" name="tos"
+                                required>
+                                <label for="tos">I have read and agree to the <a class="splash-link" href="./rules.html">terms of service</a>.</label>
+                            </div><br>
+                            <button type="submit" class="submit splash-button">Sign Up!</button>
+                        </form>
+                        <p>Already have an account? <a class="splash-link" href="./login.html">Log in!</a></p>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>
