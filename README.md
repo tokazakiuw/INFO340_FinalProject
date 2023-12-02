@@ -3,6 +3,7 @@
 This repository contains code for an interactive information web app, created for the _Client-Side Web Development_ course at the UW iSchool.
 
 Project Console: https://console.firebase.google.com/project/marketplace-web-project/overview
+
 Hosting URL: https://marketplace-web-project.web.app
 
 ## Problem/Data Domain
